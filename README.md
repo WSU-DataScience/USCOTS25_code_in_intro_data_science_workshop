@@ -21,5 +21,5 @@
     - Option #3: Time Spent - Gender Divide
 
 # Workshop Evaluation Form
-  
+- Name: W10: Less is more: Writing code in an introductory data science course  
 - Link:  https://docs.google.com/forms/d/e/1FAIpQLSdozPyyOcv23h3ND34INgM1PRSHNhq9C9IVnkRkgSnrvTVcmQ/viewform
