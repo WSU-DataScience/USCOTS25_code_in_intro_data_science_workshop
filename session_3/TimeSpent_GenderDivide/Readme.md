@@ -5,8 +5,7 @@
 
 # Session #3 - Time Spent Gender Divide Case Study
   - Article: [ https://www.nbcnews.com/data-graphics/men-do-housework-women-still-do-more-rcna216748 ] 
-      - Purpose of Hold-out set
-      - Limitations of a Single Metric
+  - **Goal**:  Obtain summaries so that the following graph can be created.
 
-<img width="536" height="429" alt="image" src="https://github.com/user-attachments/assets/e4e75ad0-de50-43e9-9d19-54b628ef8fe8" />
+<p align='center'><img width="536" height="429" alt="image" src="https://github.com/user-attachments/assets/e4e75ad0-de50-43e9-9d19-54b628ef8fe8" /></p>
 
