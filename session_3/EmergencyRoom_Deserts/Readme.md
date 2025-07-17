@@ -5,6 +5,7 @@
 
 # Session #3: Hospital (Emergency Room) Deserts Across Iowa
   - Wiki - Medical Deserts in the United States: [ https://en.wikipedia.org/wiki/Medical_deserts_in_the_United_States ] 
-  - **Goal**:  Understand hospital (or emergency room) deserts across the state of Iowa.
   - Location of Hospitals Across Iowa: [ https://www.google.com/maps/d/edit?mid=1Qnt9ZdtHcWxsCoLqimaicioKoDP0fdY&usp=sharing ] 
 
+  - **Goal**:  Understand hospital (or emergency room) deserts across the state of Iowa.
+  
