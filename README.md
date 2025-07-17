@@ -1,5 +1,3 @@
-# USCOTS25_code_in_intro_data_science_workshop
-
 # USCOTS 2025 Workshop Less is more: Writing code in an introductory data science course- [July 2025]
     Workshop Facilitators:
      - Chris Malone Ph D, Professor of Data Science and Statistics, Winona State University; Email: cmalone at winona.edu
@@ -16,3 +14,8 @@
     - Agenda for Session #2
         - Technology agnostic introduction to combining and reshaping tables
         - Low code implementation  
+        
+# Session #3: Exploration
+    - Option #1: Men Time Spent via Python:Polars 
+    - Option #2: Hospital (or Emergency Room) Deserts Across Iowa
+    - Option #3: Time Spent - Gender Divide
