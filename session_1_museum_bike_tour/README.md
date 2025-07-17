@@ -9,7 +9,4 @@
         - Technology agnostic exercises
         - Low code data management
         - Translate to code
-        
-<img width="808" height="374" alt="image" src="https://github.com/user-attachments/assets/73aa7e5e-9d3f-4308-92e5-7b97ba255f2c" />
-
 
