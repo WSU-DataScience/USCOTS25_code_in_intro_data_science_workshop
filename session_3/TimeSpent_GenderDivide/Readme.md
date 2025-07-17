@@ -3,7 +3,7 @@
      - Chris Malone Ph D, Professor of Data Science and Statistics, Winona State University; Email: cmalone at winona.edu
      - Todd Iverson PhD, Associate Professor of Data Science and Statistics, Winona State University; Email: tiverson at winona.edu
 
-# Session #3 - Time Spent - Gender Divide Case Study
+# Session #3: Time Spent - Gender Divide Case Study
   - Article: [ https://www.nbcnews.com/data-graphics/men-do-housework-women-still-do-more-rcna216748 ] 
   - **Goal**:  Obtain summaries so that the following graph can be created.
 
