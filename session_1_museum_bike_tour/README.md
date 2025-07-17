@@ -1,1 +1,2 @@
-# Example 1 - Museum Bike Tour
+# Session 1 - Museum Bike Tour
+
